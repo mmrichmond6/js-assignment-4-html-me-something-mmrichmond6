@@ -1,1 +1,37 @@
 /* Write your CSS here! */
+body {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    margin-left: 8px;
+    display: block;
+  }
+
+img {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+
+#mainHeading {
+    background-color: red;
+    text-align: center;
+} 
+
+p {
+    background-color: yellow;
+  }
+
+h2.intro {
+    background-color: blue;
+    text-align: center;
+  } 
+
+.centered {
+    text-align: center;
+} 
+
+p.funParagraph {
+    background-color: green;
+}
